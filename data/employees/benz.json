@@ -14,16 +14,38 @@
 
     ],
     "publications": {
-        "books": [
+        "contributions": [
         {
-            "name":"Die Nutzung der Isenach im Mittelalter und der frühen Neuyeit. Zum Zusammenhang gesellschaftlicher und fluvialer Prozesse an einem Nebenfluss der Vorderpfalz",
-            "authors":"Benz, Jacob; Michelle Campopiano, Gerrit Jasper Schenkd (eds.)",
+            "authors":"Benz, Jacob",
             "year":"2024",
+            "name":"Die Nutzung der Isenach im Mittelalter und der frühen Neuzeit. Zum Zusammenhang gesellschaftlicher und fluvialer Prozesse an einem Nebenfluss der Vorderpfalz",
+            "in_author":"Michelle Campopiano, Gerrit Jasper Schenkd (eds.)",
             "in":"Conflicts over Water Management and Water Rights from the End of Antiquity to Industrialization",
+            "volume":"",
             "pages":"189-218",
             "city":"Stuttgart",
-            "publisher":"Franz Steiner Verlag"
-        }
+            "publisher":"Franz Steiner Verlag",
+            "doi":"",
+            "url":"",
+            "in_print":false
+         }
+        ],
+        "reviewed": [
+            {
+            "name":"h_da@ReproHumn – Reproduction of Human Evaluation and Technical Pipeline",
+            "authors":"Mieskes, Margot and Benz, Jacob",
+            "year":"2023",
+            "in":"Proceedings of the 3rd Workshop on Human Evaluation of NLP Systems",
+            "in_author":" A. Belz, M. Popović, E. Reiter, C. Thomson, & J. Sedoc (eds.)",
+            "volume":"",
+            "pages":"130-135",
+            "city":"Shoumen, Bulgaria",
+            "publisher":"INCOMA Ltd.",
+            "doi":"",
+            "in_print":true,
+            "namex":"open access",
+            "href":"https://aclanthology.org/2023.humeval-1.11/"
+         }
         ]
     }
 }
