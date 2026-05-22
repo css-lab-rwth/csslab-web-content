@@ -13,6 +13,19 @@
     "publications":{
         "reviewed":[
             {
+                "name": "Why Mental Metaphors Do Not Help Us Understand Chatbot Mistakes",
+                "authors": "Pantsar, Markus & Fabry, Regina.",
+                "year": "2026",
+                "in": "Synthese",
+                "volume": "",
+                "pages": "1-24",
+                "city": "",
+                "doi": "10.1007/s11229-026-05551-8",
+                "publisher": "",
+                "url": "",
+                "in_print": false
+            },
+            {
                 "name": "Two Approaches to Developing Human-like Artificial Mathematical Intelligence",
                 "authors": "Pantsar, Markus",
                 "year": "2025",
