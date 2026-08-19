@@ -3,12 +3,14 @@
     "ref": "benz",
     "title": "M. Sc.",
     "status": "PhD candidate",
-    "cv": "Jacob Benz is a member of the project \"Edition wissenschaftliche Software\" (EWS) at the Chair of Theory of Science and Technology at RWTH Aachen. He studied history, computer and information science and worked in his master thesis on machine learning technology to support the scientific research process. He is responsible for research data management and the establishment as well as operation of the technical infrastructure of the EWS project. ORCID is: https://orcid.org/0009-0004-0307-4838 ",
+    "cv": "Jacob Benz is a member of the project \"Edition wissenschaftliche Software\" (EWS) at the Chair of Theory of Science and Technology at RWTH Aachen. He studied history, computer and information science and worked in his master thesis on machine learning technology to support the scientific research process. He is responsible for research data management and the establishment as well as operation of the technical infrastructure of the EWS project.",
     "img": "benz.jpg",
     "field": "",
     "pictureBy": "Britta Hüning",
     "email": "jacob.benz@humtec.rwth-aachen.de",
     "tel": "0241-80-96705",
+    "link_text": "ORCID",
+   "link": "https://orcid.org/0009-0004-0307-4838 ",
     "researchInterests": "Machine Learning; Digital Humanities; History of computers and software, especially Free/Libre Office Source Software; data protection and privacy through software",
     "projects": [
 
