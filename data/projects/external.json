@@ -1,5 +1,36 @@
 [
   {
+    "title": "Edition of Scientific Software",
+    "description": "Most of temporary scientific research depends essentially on the employment of complex software, although scientists are usually not trained in programming and software engineering. From the perspective of Philosophy of Science (PoS) the increase in scientific software as research tools is of epistemic and analytic interest; and for Software Engineering (SE) the analysis and improvement of the architecture and algorithmic structure of software projects is important. Thus, both disciplines focus on the analysis of code and share the conjoint interest in the development of new domain-specific methods for the analysis of scientific (open) software projects.",
+    "collaborators": "Prof. Dr. Anna Laktionova, Kate Hamburger Kolleg \"Cultures of Research\", RWTH Aachen University (in collaboration with Prof. Dr. Carl Mitcham, Colorado School of Mines)",
+    "fundedBy": "Akademienunion, Nordrhein-Westfälische Akademie der Wissenschaften und der Künste, Bayerische Akademie der Wissenschaften , Zentrum für Wissenschaftsforschung der Leopoldina in Halle (Saale)",
+    "startYear": 2026,
+    "endYear": 2041,
+    "link": "https://www.edition-software.net",
+    "images": [
+      {
+        "src": "https://www.edition-software.net/wp-content/uploads/2026/04/Akademienunion-Logo_RGB_20_-300x143.png",
+        "alt": "Akademienunion",
+        "href": "https://www.akademienunion.de/"
+      },
+      {
+        "src": "https://www.edition-software.net/wp-content/uploads/2026/04/Akademie_NRW.png",
+        "alt": "Nordrhein-Westfälische Akademie der Wissenschaften und der Künste",
+        "href": "https://www.awk.nrw/"
+      },
+      {
+        "src": "https://www.edition-software.net/wp-content/uploads/2026/04/Wortmarke_der_Bayerischen_Akademie_der_Wissenschaften-1024x202.png",
+        "alt": "Bayerische Akademie der Wissenschaften",
+        "href": "https://badw.de/akademie/"
+      },
+      {
+        "src": "https://www.edition-software.net/wp-content/uploads/2026/04/Leopoldina.svg",
+        "alt": "Zentrum für Wissenschaftsforschung der Leopoldina in Halle (Saale)",
+        "href": "https://www.leopoldina.org/"
+      }
+    ]
+  },
+  {
     "title": "Towards an agency-based philosophy of (advanced) technology ",
     "description": "Most of temporary scientific research depends essentially on the employment of complex software, although scientists are usually not trained in programming and software engineering. From the perspective of Philosophy of Science (PoS) the increase in scientific software as research tools is of epistemic and analytic interest; and for Software Engineering (SE) the analysis and improvement of the architecture and algorithmic structure of software projects is important. Thus, both disciplines focus on the analysis of code and share the conjoint interest in the development of new domain-specific methods for the analysis of scientific (open) software projects.",
     "collaborators": "Prof. Dr. Anna Laktionova, Kate Hamburger Kolleg \"Cultures of Research\", RWTH Aachen University (in collaboration with Prof. Dr. Carl Mitcham, Colorado School of Mines)",
