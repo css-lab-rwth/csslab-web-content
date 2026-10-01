@@ -17,28 +17,28 @@
         "reviewed":[],
         "books": [
         {
-            "name":"Biometrie",
+            "name":"Biometrie. Zur Soziologie der Identifikation",
             "authors":"Wichum, Ricky",
             "year":"2017",
-            "in":"Zur Soziologie der Identifikation",
+            "in":"",
             "pages":"",
             "city":"",
             "publisher":"Wilhelm Fink"
         },
         {
-            "name": "An den Grenzen der Berechenbarkeit",
+            "name": "An den Grenzen der Berechenbarkeit. Supercomputing in Stuttgart",
             "authors": "Wichum, Ricky; Gugerli, David",
             "year": "2020",
-            "in": "Supercomputing in Stuttgart",
+            "in": "",
             "pages": "",
             "city": "",
             "publisher": "Chronos"
         },
         {
-            "name": "Simulation for All",
+            "name": "Simulation for All. The Politics of Supercomputing in Stuttgart",
             "authors": "Wichum, Ricky; Gugerli, David",
             "year": "2021",
-            "in": "The Politics of Supercomputing in Stuttgart",
+            "in": "",
             "pages": "",
             "city": "",
             "publisher": "Chronos"
