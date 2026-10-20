@@ -3,7 +3,7 @@
     "ref": "rohde",
     "title": "M.A.",
     "status": "PhD candidate",
-    "cv": "Gudrun Rohde is a PhD candidate at the Chair for Theory of Science and Technology. She studied Philosophy, German literature and Political Science at the Rheinische Friedrich Wilhelms University Bonn, the University of Cologne and the Rijksuniversiteit Leiden. She graduated with a master’s thesis on Charles Taylor’s theories of the modern self and Will Kymlikas’ Concept of Multiculturalism. She is currently working on knowledge transfer in living labs in the BMBF funded TRANSFER project at the Human Technology Centre (HumTec). Her PhD project is about the analysis of socio-epistemic categories.",
+    "cv": "Gudrun Rohde is a PhD candidate at the Chair for Theory of Science and Technology. She studied Philosophy, German Literature and Political Science at the Rheinische Friedrich Wilhelms University Bonn, the University of Cologne and the Rijksuniversiteit Leiden. She graduated with a master’s thesis on Charles Taylor’s theories of the modern self and Will Kymlikas’ Concept of Multiculturalism. As a research associate, she is currently working for the Living Labs Incubator (LLI). The LLI is a measure within the RWTH Excellence Strategy to connect, study and support existing and emerging Living Labs at and around RWTH Aachen University and is situated at the Human Technology Centre (HumTec). Her PhD project is about the analysis of socio-epistemic categories with a focus on Living Labs.",
     "img": "rohde.png",
     "field": "",
     "email": "rohde@humtec.rwth-aachen.de",
@@ -22,7 +22,18 @@
             "city":"Aachen (hybrid)",
             "publisher":"",
             "url": "https://www.tatup.de/index.php/tatup/article/view/7151"
+            },
+            {
+            "name":"Soziale Innovationen für Transformationen des Wissens”",
+            "authors":"Stefan Böschen; Stefan John; Julia Backhaus; Juri Dachtera; Inge Leurs; Gudrun Rohde; Gabriele Gramelsberger",
+            "year":"202",
+            "in":"Hochschulforschung, hrsg. von Peer Pasternack, Gabi Reinmann, Christian Schneijderberg",
+            "pages":"543-552",
+            "city":"Baden-Baden",
+            "publisher":"",
+            "url": ""
             }
+
         ],
         "contributions": [
             {
@@ -39,6 +50,7 @@
                 "url":"",
                 "in_print":false
              }
+             
         ]
     }
     
